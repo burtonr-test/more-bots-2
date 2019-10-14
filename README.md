@@ -1,2 +1,2 @@
 # more-bots-2
-another repo for testing bots
+another repository for testing bots
